@@ -1,7 +1,9 @@
+import "./styles/nav.css";
+
 export default function Home() {
   return (
-    <div>
-      <div className="nav">asdasd</div>
+    <div className="container">
+      <div className="">adsasdasd</div>
     </div>
   );
 }
