@@ -1,10 +1,10 @@
 @import "tailwindcss";
-@import "./styles/nav.css";
 
 :root {
   --background: #ffffff;
   --foreground: #171717;
-  --primary: #ff5100;
+  --primary: #5494be;
+  --gray-bg: #d8d8d8;
 }
 
 @theme inline {
@@ -16,7 +16,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #dbdbdb;
+    --background: #c5c4c4;
     --foreground: #0a0a0a;
   }
 }
